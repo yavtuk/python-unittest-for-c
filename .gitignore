@@ -1,0 +1,7 @@
+# MacOs metadata
+.DS_Store
+
+# Common
+*.o
+*.out
+*.pyc
